@@ -2,7 +2,7 @@
 
 A simple Streamlit dashboard tracking SpaceX rocket launches.
 
-![Screenshot](screenshot.png)
+![Screenshot](spacexscreenshot.jpg)
 
 ## Features
 - Shows latest 10 launches
